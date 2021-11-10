@@ -1,0 +1,3 @@
+abasic.forever(function () {
+	
+})
